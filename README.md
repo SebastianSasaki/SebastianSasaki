@@ -21,8 +21,8 @@ I am a Software Engineering Student, I am interested in web development and expl
   
 ## 📊 My Github Stats
 
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianSasaki&hide=prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSasaki&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianSasaki&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSasaki&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    </p>
 
 <!--
