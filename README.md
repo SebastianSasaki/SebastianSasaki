@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a Software Engineering Student, I am interested in web development and exploring current technologies and finding other frameworks to develop.
+I am a Software Engineering Student, I am interested in web and mobile development, management of data, keep the programs clean and in order to keep working, exploring current technologies and finding other frameworks to develop.
   
 ## 🚀 Languages and Tools:
 
